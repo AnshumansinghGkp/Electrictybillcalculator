@@ -30,10 +30,10 @@ Clean, card-based results with monthly, daily, and hourly usage statistics.
 ✅ Responsive Design
 
 Works seamlessly on desktop, tablet, and mobile devices.
-
 Smooth animations and intuitive navigation.
 
 Technologies Used:
+
 HTML5 – Structure and content layout.
 
 CSS3 – Styling with modern UI elements (flexbox, animations, responsive design).
